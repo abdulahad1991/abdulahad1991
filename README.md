@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">A bearded Mobile Apps developer with extensive poly industry experience in the DevVerse.</h3>
 
-- 🔭 I’m currently working on [GoStorm](https://github.com/abdulahad1991/gostorm_app)
+- 🔭 I’m currently working on [Muslim Connect]
 
 - 📝 I regularly write articles on [https://medium.com/@abdul_2236](https://medium.com/@abdul_2236)
 
