@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Muslim Connect]
 
-- 📝 I regularly write articles on [https://medium.com/@abdul_2236](https://medium.com/@abdul_2236)
+- 📝 I regularly write articles on [[https://medium.com/@abdul_2236](https://medium.com/@bdulahad)]([https://medium.com/@abdul_223](https://medium.com/@bdulahad))
 
 - 💬 Ask me about **Android Native, Flutter, iOS, Views, Compose, Jetpack, Fintech, Security, Encryption**
 
