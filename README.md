@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">A bearded Mobile Apps developer with extensive poly industry experience in the DevVerse.</h3>
 
-- 🔭 I’m currently working on [Muslim Connect]
 
 - 📝 I regularly write articles on [[Abdul Ahad](https://medium.com/@bdulahad)]
 
-- 💬 Ask me about **Android Native, Flutter, iOS, Views, Compose, Jetpack, Fintech, Security, Encryption**
+- 💬 Ask me about **Android Native, Flutter, iOS, Views, Compose, Jetpack, Fintech, Security, Spring Boot**
 
 - 📫 How to reach me **abdulahad1991@gmail.com**
 
