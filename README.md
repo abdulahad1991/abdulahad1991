@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
-<h3 align="center">A bearded Mobile Apps developer with extensive poly industry experience in the DevVerse.</h3>
 
 
 - 📝 I regularly write articles on [[Abdul Ahad](https://medium.com/@bdulahad)]
